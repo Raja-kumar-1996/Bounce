@@ -24,8 +24,8 @@ A simple and interactive **HTML5 Canvas Bounce Game** built using **Vanilla Java
 - CSS3
 - JavaScript (ES6)
 
-## 📸 Preview
-![Game Preview](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+
 
 ---
 
