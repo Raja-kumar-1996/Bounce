@@ -27,6 +27,7 @@ A simple and interactive **HTML5 Canvas Bounce Game** built using **Vanilla Java
 
 
 
+
 ---
 
 ⭐ If you like this project, give it a star!
